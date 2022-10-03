@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+
+=======
+<<<<<<< HEAD
+>>>>>>> 4d2adeeb49375dd3ee74eb13c95dd6ac69159d83
 /**
  * Java Basic. Homework Nr.3
  *
@@ -53,6 +57,8 @@ class JavaBasic_Homework3 {
         }
         return result;
     }
+<<<<<<< HEAD
+=======
 =======
 /**
  * Java Basic. Homework Nr.3
@@ -109,4 +115,5 @@ class JavaBasic_Homework3 {
         return result;
     }
 >>>>>>> 9cdf1f71e7f9bac11104bff1656dcad8c1b575e2
+>>>>>>> 4d2adeeb49375dd3ee74eb13c95dd6ac69159d83
 }
