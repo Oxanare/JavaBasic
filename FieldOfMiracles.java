@@ -1,6 +1,12 @@
 import java.util.Random;
 import java.util.Scanner;
-
+/**
+ * Java Basic. Homework Nr.5
+ *
+ * @author Oxana 
+ * @todo 19.09.2022
+ * @date 04.10.2022
+ */
 class FieldOfMiracles {
     public static void main(String[] args) {
         Random random = new Random();
